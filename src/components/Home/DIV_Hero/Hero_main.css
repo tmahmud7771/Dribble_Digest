@@ -1,0 +1,18 @@
+.overlay_image {
+  position: absolute;
+  width: 100%;
+  height: fit-content;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.35);
+  z-index: 0;
+  cursor: pointer;
+}
+
+.overlay_image_content {
+  visibility: hidden;
+}
+
+.post {
+  position: relative;
+}

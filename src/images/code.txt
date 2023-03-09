@@ -1,0 +1,13 @@
+        
+        #overlay_image effect
+
+        {/* <div className="overlay_image">
+          <div className="overlay_image_content">
+            <Link className="post-img" to={`/PostDetails?blogId=${blog?._id}`}>
+              <img src={blog?.thumbnail} alt="" />
+            </Link>
+          </div>
+        </div> */}
+
+
+        
